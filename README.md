@@ -11,7 +11,7 @@ If you use this simulation in your research, you can cite it as follows:
 
 ```bibtex
 
-@thesis{thesis,
+@article{thesis,
 author = {Hussein, Amir and Abdallah, Rayyan},
 year = {2017},
 month = {10},
