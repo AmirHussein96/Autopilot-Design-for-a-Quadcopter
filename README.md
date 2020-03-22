@@ -10,14 +10,7 @@ The "apm_copter_codes" folder contains the implementation of the designed linear
 If you use this simulation in your research, you can cite it as follows:
 
 ```bibtex
-@misc{plappert2016kerasrl,
-    author = {Matthias Plappert},
-    title = {keras-rl},
-    year = {2016},
-    publisher = {GitHub},
-    journal = {GitHub repository},
-    howpublished = {\url{https://github.com/keras-rl/keras-rl}},
-}
+
 @thesis{thesis,
 author = {Hussein, Amir and Abdallah, Rayyan},
 year = {2017},
@@ -26,6 +19,7 @@ pages = {},
 title = {Autopilot Design for a Quadcopter},
 doi = {10.13140/RG.2.2.17020.80008}
 }
+```
 
 ## Contact
 In case you faced any issues or found any bugs feel free to contact me at "anh21@mail.aub.edu"
